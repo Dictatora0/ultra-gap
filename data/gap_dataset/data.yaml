@@ -1,0 +1,9 @@
+path: data/gap_dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: single_gap
+  1: multi_gap
+  2: truncated
